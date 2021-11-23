@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ymrdevops
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning terraform
+- 🌱 I’m currently learning Latest Technology Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
